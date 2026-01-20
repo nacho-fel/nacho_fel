@@ -51,7 +51,6 @@ I am a student of **Mathematical Engineering and Artificial Intelligence** at Un
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
 </p>
----
 
 ### Featured Projects
 
