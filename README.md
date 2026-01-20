@@ -1,16 +1,18 @@
-# Ignacio Felices
+# Ignacio Felices Vera
 
-**Robotics & Software Engineer | Mathematical Engineering & AI Student**
+**Machine Learning Engineer | Mathematical Engineering & AI Student**
 
-I am a student of **Mathematical Engineering and Artificial Intelligence** at Universidad Pontificia Comillas (ICAI). My work focuses on the intersection of Autonomous Systems, Robotics, and Machine Learning, with a strong foundation in C++ and Python development for real-world engineering challenges.
-
+I am a student of **Mathematical Engineering and Artificial Intelligence** at Universidad Pontificia Comillas (ICAI). My work focuses on the development of models to solve real-world problems. It includes from neural networks to more advanced mathematical solutions. Here I share some of my work!
 ### Areas of Expertise
 
-* **Autonomous Systems:** Driverless simulation, sensor fusion, and control logic (Formula Student context).
-* **Natural Language Processing:** Experience with Skip-gram models, Encoders, NER, and Sentiment Analysis.
-* **Robotics:** Autonomous robot updates, hardware-software integration, and Makefile-based build systems.
-* **Mathematical Modeling:** Numerical methods and algorithmic implementation for engineering problems.
-* **Software Engineering:** Object-oriented programming in C++, Python scripting, and version control.
+* **Deep Learning:** Architecting and training CNNs, RNNs, and VAEs, primarily utilizing the **PyTorch** framework.
+* **Natural Language Processing:** Extensive work with Transformer architectures, NER, Sentiment Analysis, LLM adaptation, prompt engineering, and fine-tuning techniques.
+* **Computer Vision:** Developing multimodal pipelines, image captioning systems, and advanced feature extraction methods.
+* **Autonomous Systems & Robotics:** Designing perception and control pipelines for driverless racing.
+* **Reinforcement Learning:** Application of RL agents to complex decision-making environments.
+* **Time Series Analysis & Forecasting:** Modeling temporal data for predictive analytics.
+* **Mathematical Modeling & Optimization:** Solving large-scale problems using **Gurobi**, numerical methods, and statistical modeling.
+* **MLOps Foundations:** Building robust data pipelines, managing GitHub projects, and ensuring reproducible environments.
 
 ### Technical Skills
 
