@@ -42,7 +42,7 @@ I am a student of **Mathematical Engineering and Artificial Intelligence** at Un
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 </p>
 
-#### **Tools**
+#### **Tools & DevOps**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
@@ -64,7 +64,7 @@ I am a student of **Mathematical Engineering and Artificial Intelligence** at Un
 #### **Game Development**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/pygame.svg" alt="pygame" width="80" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/pygame.svg" alt="pygame" width="40" height="40"/>
 </p>
 
 ### Featured Projects
