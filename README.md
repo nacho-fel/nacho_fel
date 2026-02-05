@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer | Mathematical Engineering & AI Student**
 
-I am a student of **Mathematical Engineering and Artificial Intelligence** at Universidad Pontificia Comillas (ICAI). My work focuses on the development of models to solve real-world problems. It includes from neural networks to more advanced mathematical solutions. Here I share some of my work!
+I am a student of Mathematical Engineering and Artificial Intelligence at Universidad Pontificia Comillas (ICAI). My work focuses on the development of models to solve real-world problems. It includes from neural networks to more advanced mathematical solutions. Here I share some of my work!
 ### Areas of Expertise
 
 * **Deep Learning:** Architecting and training CNNs, RNNs, and VAEs, primarily utilizing the **PyTorch** framework.
