@@ -70,8 +70,8 @@ I am a student of **Mathematical Engineering and Artificial Intelligence** at Un
 > **Note:** Projects developed within private entities and research scholarships are under Non-Disclosure Agreements (NDA); source code is not publicly available.
 
 #### **Data Scientist | Iberdrola** (May 2025 – July 2025)
-* **Mathematical Optimization (PRADA 2.0):** Developed a cascade optimization model from scratch to optimize base node positioning for 11.6 million electricity meters. Formulated real-world constraints using mathematical logic with **HiGHS** and **Google OR-Tools**.
-* **Cloud Architecture:** Integrated optimization models into Iberdrola’s **Azure ML** ecosystem, handling production-level big data workflows.
+* **Mathematical Optimization (PRADA 2.0):** Developed a cascade optimization model from scratch to optimize base node positioning for 11.6 million electricity meters. Formulated real-world constraints using mathematical logic with HiGHS and Google OR-Tools.
+* **Cloud Architecture:** Integrated optimization models into Iberdrola’s Azure ML ecosystem, handling production-level big data workflows.
 * **Strategic Collaboration:** Supported the launch of a new AI Academy and Machine Learning Lab in the Basque Country.
 
 #### **Teaching Collaboration Scholar | Universidad Pontificia Comillas ICAI** (Oct 2023 – Present)
