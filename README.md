@@ -96,6 +96,10 @@ I am a student of **Mathematical Engineering and Artificial Intelligence** at Un
 * Implementation of development of an automatic alert generation system from news articles and social media posts.
 * Developed bi-directional LSTM and CNN architectures.
 
+#### [Reinforcement Learning Logistic Application]([https://github.com/nacho-fel/AutomaticAlertGenerator-NER-SA_Implementation](https://github.com/nacho-fel/ReinforcementLearning_MultipleEnvironmentLogisticApplication))
+* Continuous navigation using SARSA with Tile Coding for discretization and generalization.
+* A warehouse task using a DQN agent (Stable-Baselines3), including feature engineering, reward design, and training tracking with TensorBoard.
+
 ---
 
 ### Academic Background
