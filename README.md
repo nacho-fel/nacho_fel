@@ -63,7 +63,7 @@ I am a student of **Mathematical Engineering and Artificial Intelligence** at Un
 #### **Game Development**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/pygame.svg" alt="pygame" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pygame/pygame-original.svg" alt="pygame" width="40" height="40"/>
 </p>
 
 ### Professional Experience
