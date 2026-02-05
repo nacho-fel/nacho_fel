@@ -76,10 +76,10 @@ I am a student of **Mathematical Engineering and Artificial Intelligence** at Un
 
 #### **Teaching Collaboration Scholar | Universidad Pontificia Comillas ICAI** (Oct 2023 – Present)
 * **Year 1 | LLM Research & Automation:** Developed AI-driven systems using Large Language Models to automate the evaluation of Python programming projects, enhancing pedagogical efficiency and feedback accuracy.
-* **Year 2 | Curriculum Innovation:** Building automation tools for MOOC creation, applying **text-to-video** and **audio-to-text** AI pipelines to streamline digital content production.
+* **Year 2 | Curriculum Innovation:** Building automation tools for MOOC creation, applying text-to-video and audio-to-text AI pipelines to streamline digital content production.
 
 #### **Member of the Driverless Team | ISC Racing Team** (June 2023 – June 2024)
-* Contributed to the development of a fully autonomous vehicle for **Formula Student Driverless** competitions, bridging low-level control with high-level perception systems.
+* Contributed to the development of a fully autonomous vehicle for Formula Student Driverless competitions, bridging low-level control with high-level perception systems.
 
 ### Featured Projects
 
