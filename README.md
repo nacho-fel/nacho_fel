@@ -88,7 +88,7 @@ I am a student of **Mathematical Engineering and Artificial Intelligence** at Un
 * A virtual environment where Autonomous Systems from different Formula Student teams compete in time-trial challenges.
 * Focused on C++ implementation and high-performance simulation logic.
 
-#### [Autonomous Robots Portfolio](https://github.com/nacho-fel/GPS_APP)
+#### [Madrid GPS Application](https://github.com/nacho-fel/GPS_APP)
 * GPS navigation system for Madrid’s street network, modeling the city as a weighted graph where intersections are vertices and street segments are edges.
 * Focuses on implementation of navigation and route planning algorithms.
 
